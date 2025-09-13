@@ -17,20 +17,18 @@ For now?
 
 I'm a **Comparative Literature** major + **Asian Studies** concentrator. Which is to say it's been a while since I've read a book for non-academic purposes. 
 
-### My Sewing & Programming Experience
+### my sewing & programming experience
 
-I literally have none. Never sewed. Never programmed. Hence the scaredness.
+I literally have none. Never sewed. Never programmed. Hence the fear of spooky stem.
 
-### Why am I here?
+### why am i here?/hopes for this class
 
-I'm curious about sewing/combining technology with mundane, tangible items. Hopefully this class will help me do that :D
+I've always wanted to learn how to sew! I'm also curious about the role of technology alongside mundane, tangible, every-day things around us.
 
-### One Boring Fact About Me
+### one boring fact about me.
 
 I have watched 65 movies for free at Images Cinema over the last two years.
 
-### Some Photos For Fun
+### a photo of my bookshelves. just for fun.
 
-I'm going to put a photo of my bookshelf here in place of the crepe! 
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![Tashfa's bookshelves.](https://beautifuljekyll.com/assets/img/tashfasbookshelf.jpg)
