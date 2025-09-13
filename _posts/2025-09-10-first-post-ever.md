@@ -5,6 +5,7 @@ subtitle: I'm trying.
 tags: [tashfa's blog]
 comments: true
 mathjax: true
+pin: true
 author: Tashfa Zafar
 ---
 
