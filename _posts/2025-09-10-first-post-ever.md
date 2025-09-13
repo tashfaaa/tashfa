@@ -32,4 +32,4 @@ I have watched 65 movies for free at Images Cinema over the last two years.
 
 ### a photo of my bookshelves. just for fun.
 
-![Tashfa's bookshelves.](https://beautifuljekyll.com/assets/img/tashfasbookshelf.jpg)
+![Tashfa's bookshelves.](https://github.com/tashfaaa/assets/img/tashfasbookshelf.jpg)
