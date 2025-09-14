@@ -7,7 +7,7 @@ comments: true
 mathjax: true
 pin: true
 author: Tashfa Zafar
-thumbnail: https://tashfaaa.github.io/assets/img/tashfasbookshelf.jpg
+thumbnail: "https://tashfaaa.github.io/assets/img/tashfasbookshelf.jpg"
 ---
 
 Hi! I'm Tashfa.
