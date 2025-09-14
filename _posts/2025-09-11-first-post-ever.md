@@ -8,6 +8,8 @@ mathjax: true
 pin: true
 author: Tashfa Zafar
 thumbnail-img: https://tashfaaa.github.io/assets/img/tashfasbookshelf.jpg
+
+round-thumbnail-img: true
 ---
 
 Hi! I'm Tashfa.
