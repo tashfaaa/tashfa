@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+title-text-col: "#441752"
 subtitle: Why I'm in eTextiles!
 ---
 
