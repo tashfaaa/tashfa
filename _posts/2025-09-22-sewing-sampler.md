@@ -12,7 +12,7 @@ author: Tashfa Zafar
 
 **Here's some photos of my sampler:**
 
-![front of sewing sampler](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![front of sewing sampler](https://tashfaaa.github.io/assets/img/20250922_111430.jpg){: .mx-auto.d-block :}
 
 ![back of sewing sampler](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
