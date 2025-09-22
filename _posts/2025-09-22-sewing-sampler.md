@@ -14,7 +14,7 @@ author: Tashfa Zafar
 
 ![front of sewing sampler](https://tashfaaa.github.io/assets/img/20250922_111430.jpg) {: .mx-auto.d-block :}
 
-![back of sewing sampler](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![back of sewing sampler](https://beautifuljekyll.com/assets/img/crepe.jpg) {: .mx-auto.d-block :}
 
 [This tutorial helped me with learning two additional stitches, namely herringbone and fishbone :D](https://youtu.be/QBQ_a0WrE3Y?si=1NAc6kG0WJ_MEtyi).
 
