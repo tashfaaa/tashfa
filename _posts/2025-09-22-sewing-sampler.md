@@ -7,7 +7,7 @@ comments: true
 author: Tashfa Zafar
 ---
 
-{: .box-success}
+{: .box-note}
 Something I wish I knew more while working on this embroidery sampler: fabric tension! I started the assignment without an embroidery hoop and found myself struggling with handling the fabric and sustaining tension while sewing. The embroidery hoop helped but also prompted a lot of questions about how much tension is the right amount! It took me a minute to figure out how to change directions while doing the stem stitch.  
 
 **Here's some photos of my sampler:**
