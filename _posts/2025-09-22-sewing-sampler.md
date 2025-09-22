@@ -1,3 +1,4 @@
+---
 layout: post
 title: Sewing Sampler!
 subtitle: This assignment took many hours to complete but was also fun.
