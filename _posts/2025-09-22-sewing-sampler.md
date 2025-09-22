@@ -12,23 +12,12 @@ author: Tashfa Zafar
 
 **Here's some photos of my sampler:**
 
-![front of sewing sampler](https://tashfaaa.github.io/assets/img/20250922_111430.jpg) {: .mx-auto.d-block :}
+![front of sewing sampler](https://tashfaaa.github.io/assets/img/20250922_111430.jpg){: .mx-auto.d-block :}
 
-![back of sewing sampler](https://beautifuljekyll.com/assets/img/crepe.jpg) {: .mx-auto.d-block :}
+![back of sewing sampler](https://tashfaaa.github.io/assets/img/20250922_111430.jpg){: .mx-auto.d-block :}
+
+![close-up](https://tashfaaa.github.io/assets/img/20250922_111443.jpg){: .mx-auto.d-block :}
+
+![close-up](https://tashfaaa.github.io/assets/img/20250922_111453.jpg){: .mx-auto.d-block :}
 
 [This tutorial helped me with learning two additional stitches, namely herringbone and fishbone :D](https://youtu.be/QBQ_a0WrE3Y?si=1NAc6kG0WJ_MEtyi).
-
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
