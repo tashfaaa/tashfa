@@ -14,7 +14,7 @@ author: Tashfa Zafar
 
 ![front of sewing sampler](https://tashfaaa.github.io/assets/img/20250922_111430.jpg){: .mx-auto.d-block :}
 
-![back of sewing sampler](https://tashfaaa.github.io/assets/img/20250922_111430.jpg){: .mx-auto.d-block :}
+![back of sewing sampler](https://tashfaaa.github.io/assets/img/20250922_111328.jpg){: .mx-auto.d-block :}
 
 ![close-up](https://tashfaaa.github.io/assets/img/20250922_111443.jpg){: .mx-auto.d-block :}
 
