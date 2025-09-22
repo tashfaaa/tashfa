@@ -8,13 +8,13 @@ author: Tashfa Zafar
 ---
 
 {: .box-note}
-**Note:** Something I wish I knew more while working on this embroidery sampler: fabric tension! I started the assignment without an embroidery hoop and found myself struggling with handling the fabric and sustaining tension while sewing. The embroidery hoop helped but also prompted a lot of questions about how much tension is the right amount! It took me a minute to figure out how to change directions while doing the stem stitch.  
+**Note:** Something I wish I knew more about while working on this embroidery sampler: fabric tension! I started the assignment without an embroidery hoop and found myself struggling with handling the fabric and sustaining tension while sewing. The embroidery hoop helped but also prompted a lot of questions about how much tension is the right amount! Also! It took me a minute to figure out how to change directions while doing the stem stitch.  
 
 **Here's some photos of my sampler:**
 
+![front of sewing sampler](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
-
-## Here is a secondary heading
+![back of sewing sampler](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
 [This tutorial helped me with learning two additional stitches, namely herringbone and fishbone :D](https://youtu.be/QBQ_a0WrE3Y?si=1NAc6kG0WJ_MEtyi).
 
