@@ -7,7 +7,7 @@ comments: true
 author: Tashfa Zafar
 ---
 
-![output for very cold weather](https://tashfaaa.github.io/assets/img/antarctica.jpg){: .mx-auto.d-block :}
+![output for very cold weather](https://tashfaaa.github.io/assets/img/antarctica.jpg)
 
 ![output for sweater weather](https://tashfaaa.github.io/assets/img/sweater.jpg){: .mx-auto.d-block :}
 
