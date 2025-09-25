@@ -7,7 +7,7 @@ comments: true
 author: Tashfa Zafar
 ---
 
-My head hurts a little bit. But I made it through this assignment alive! The task was to write a program that tells you what to wear depending on the temperature, using **if**, **else if**, **else**, as well as the **&&** and **||** operators.
+My head hurts a little bit. But I made it through this assignment alive! The task was to write a program that tells you what to wear depending on the temperature, using **if**, **else if**, **else**, etc.
 
 Here's my work:
 
