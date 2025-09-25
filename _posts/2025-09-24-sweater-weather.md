@@ -7,6 +7,8 @@ comments: true
 author: Tashfa Zafar
 ---
 
+The task: write a program that tells you what to wear depending on the temperature, using **if**, **else if**, **else**, as well as the **&&** and **||** operators.
+
 ![output for very cold weather](https://tashfaaa.github.io/assets/img/antarctica.png)
 
 ![output for sweater weather](https://tashfaaa.github.io/assets/img/sweater.png){: .mx-auto.d-block :}
