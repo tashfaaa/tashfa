@@ -7,12 +7,12 @@ comments: true
 author: Tashfa Zafar
 ---
 
-![output for very cold weather](https://tashfaaa.github.io/assets/img/antarctica.jpg)
+![output for very cold weather](https://tashfaaa.github.io/assets/img/antarctica.png)
 
-![output for sweater weather](https://tashfaaa.github.io/assets/img/sweater.jpg){: .mx-auto.d-block :}
+![output for sweater weather](https://tashfaaa.github.io/assets/img/sweater.png){: .mx-auto.d-block :}
 
-![output for mild weather](https://tashfaaa.github.io/assets/img/mild.jpg){: .mx-auto.d-block :}
+![output for mild weather](https://tashfaaa.github.io/assets/img/mild.png){: .mx-auto.d-block :}
 
-![output for very warm weather](https://tashfaaa.github.io/assets/img/lava.jpg){: .mx-auto.d-block :}
+![output for very warm weather](https://tashfaaa.github.io/assets/img/lava.png){: .mx-auto.d-block :}
 
-![output for concerningly hot weather](https://tashfaaa.github.io/assets/img/apocalypse.jpg){: .mx-auto.d-block :}
+![output for concerningly hot weather](https://tashfaaa.github.io/assets/img/apocalypse.png){: .mx-auto.d-block :}
