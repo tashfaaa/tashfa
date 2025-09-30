@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Circuit Plushy 
-cover-img: /assets/img/20250929_190808.jpg
+cover-img: https://tashfaaa.github.io/assets/img/20250929_190808.jpg
 comments: true
 author: Tashfa Zafar
 ---
