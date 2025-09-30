@@ -20,7 +20,7 @@ A tip based on these experiences: Temporarily securing components somehow so you
 ![paper prototype](https://tashfaaa.github.io/assets/img/20250929_191343.jpg)
 
 ## My Alligator Prototype
-![alligator prototyping stage](https://tashfaaa.github.io/assets/img/alligatortestjpg)
+![alligator prototyping stage](https://tashfaaa.github.io/assets/img/alligatortest.jpg)
 (I'm realizing the photo above is super confusing! But it works!)
 ![alligator prototyping stage with LEDs turned on](https://tashfaaa.github.io/assets/img/alligatorsuccess.jpg)
 
