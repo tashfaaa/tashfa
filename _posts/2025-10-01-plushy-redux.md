@@ -12,7 +12,7 @@ I had fun translating the behavior of our silly little plushy guys from earlier 
 
 ![on](https://tashfaaa.github.io/assets/img/ledon.png) margin: auto;
 
-![off](https://tashfaaa.github.io/assets/img/ledoff.png) 
+![off](https://tashfaaa.github.io/assets/img/ledoff.png) {: .mx-auto.d-block :}
 
 {: .box-note}
 **Tip:** Learn to keep it simple and not overthink and ask for help when unsure! 
