@@ -18,3 +18,5 @@ For this assignment, I added two LEDs to my sewing sampler and incorporated two 
 
 I decided to put the LEDs at the back since the light still shows through without disrupting the front of the work!
 ![homemade switch on](https://tashfaaa.github.io/assets/img/hslit.jpg)
+
+{: .box-note} Tip: Actually practice Prof's advice to keep the battery out while you're sewing!!
