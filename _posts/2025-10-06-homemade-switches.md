@@ -23,4 +23,5 @@ For this assignment, I added two LEDs to my sewing sampler and incorporated two 
 
 ![homemade switch on](https://tashfaaa.github.io/assets/img/hslit.jpg)
 
-{: .box-note} Tip: Actually practice Prof's advice to keep the battery out while you're sewing!!
+{: .box-note}
+**Tip:** Actually practice Prof's advice to keep the battery out while you're sewing!!
